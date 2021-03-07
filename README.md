@@ -1,5 +1,10 @@
 # ReactJS
- Pour créer un projet ReactJS taper la commande :
+
+L'objectif est de m'initier au langage React que je vais étudier en cours de LP-DIM.
+
+Cette repository contient un premier mini-projet à tester sur mobile.
+
+Pour créer un projet ReactJS taper la commande :
     -> "expo init my-app"   
 
 Lancer le projet :
