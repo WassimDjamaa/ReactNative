@@ -6,7 +6,6 @@ Cette repository contient un premier mini-projet à tester sur mobile.
 
 Avant de lancer le projet : 
     -> "[sudo] npm install expo-cli --global"
-(Le sudo est obligatoire uniquement pour les macs)
 
 Pour créer un projet ReactJS taper la commande :
     -> "expo init my-app"   
